@@ -23,7 +23,6 @@ class Num2 {
             System.out.println("Сумма положительная");
         } else
             System.out.println("Сумма отрицательная");
-
     }
 
     public static void main(String[] args) {
@@ -90,9 +89,16 @@ class Num5 {
         } else {
             return true;
         }
-
     }
 
+
+    public static void main(String[] args) {
+        int q = 6;
+        int w = 25;
+        TrueFalse(q, w);
+        //System.out.println(TrueFalse(q, w));
+    }
+}
 
     public static void main(String[] args) {
         int q = 6;
@@ -130,7 +136,6 @@ class Num8 {
             return true;
         else
             return false;
-
     }
 
 
