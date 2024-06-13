@@ -1,6 +1,6 @@
-class Dog extends Animal2 {
+class Dog extends Animal {
 
-    private static int distance;
+
     private static int dogCount = 0;
 
 
@@ -17,7 +17,7 @@ class Dog extends Animal2 {
     @Override
     public void run(int distance) {
         if (distance <= 500) {
-            System.out.println("Пёс " + name + " пробежал" + distance + " метров. ");
+            System.out.println("Пёс " + name + " пробежал " + distance + " метров. ");
         } else {
             System.out.println("Пёс " + name + " не может пробежать такое расстояние.");
         }
