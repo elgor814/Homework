@@ -5,7 +5,7 @@ import java.util.*;
 
 public class PhoneDirectory {
 
-    private Map<String, List<String>> directory = new HashMap<>(); //  Фамилия и список номеров телефонов
+    private final Map<String, List<String>> directory = new HashMap<>(); //  Фамилия и список номеров телефонов
 
     public void add(String lastName, String phoneNumber) { //добавляем запись в справочник
 
