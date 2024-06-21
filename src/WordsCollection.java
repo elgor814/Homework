@@ -4,8 +4,8 @@ public class WordsCollection {
 
     // Метод для преобразования массива строк в список строк
     public static List<String> arrayToList(String[] array) {
-        List<String> food = new ArrayList<>(Arrays.asList(array));
-        return food;
+        List<String> foodList = new ArrayList<>(Arrays.asList(array));
+        return foodList;
 
     }
 
