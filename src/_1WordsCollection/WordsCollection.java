@@ -1,3 +1,5 @@
+package _1WordsCollection;
+
 import java.util.*;
 
 public class WordsCollection {
