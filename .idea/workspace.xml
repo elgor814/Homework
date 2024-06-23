@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf1ce403-b0de-4aaa-ba3e-8b7bea80f678" name="Changes" comment="Lesson13/22.6.24/0.30">
+      <change afterPath="$PROJECT_DIR$/../6/6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animal 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animal 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animal 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animal 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animal/Animal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animal3/Animal3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Les6/Les6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 new/Lesson 6 new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson-10/Lesson-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson-12/Lesson-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_10/Lesson_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_12/Lesson_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4 fix/Lesson_4 fix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4 fix2/Lesson_4 fix2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/Lesson_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shape/Shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test0/Test0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsArray13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2PhoneDirectory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2PhoneDirectory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2PhoneDirectory/PhoneDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2PhoneDirectory/PhoneDirectory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iBrEqFCvErcJB0y68bsTBjD6n8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordsArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2PhoneDirectory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lesson__13__fix&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lena/IdeaProjects/MyProject/Lesson13&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lena/IdeaProjects/WordsArray13/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application._2PhoneDirectory.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1WordsCollection.Main" />
+      <module name="WordsArray13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2PhoneDirectory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2PhoneDirectory.Main" />
+      <module name="WordsArray13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2PhoneDirectory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._2PhoneDirectory.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf1ce403-b0de-4aaa-ba3e-8b7bea80f678" name="Changes" comment="" />
+      <created>1718974704712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718974704712</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lesson13-WordsCollection">
+      <option name="closed" value="true" />
+      <created>1719001065900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719001065900</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson13-WordsCollection">
+      <option name="closed" value="true" />
+      <created>1719001160638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719001160638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson13-WordsCollection">
+      <option name="closed" value="true" />
+      <created>1719001491151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719001491151</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson13/22.6.24/0.30">
+      <option name="closed" value="true" />
+      <created>1719005475530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719005475530</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Lesson_13_fix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson13-WordsCollection" />
+    <MESSAGE value="Lesson13/22.6.24/0.30" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson13/22.6.24/0.30" />
+  </component>
+</project>

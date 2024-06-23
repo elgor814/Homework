@@ -6,21 +6,20 @@ public class Main {
     public static void main(String[] args) {
         PhoneDirectory phoneDirectory = new PhoneDirectory();
 
-        // Добавляем записи в телефонный справочник
-        phoneDirectory.addEntry("123456789", "Иванов");
-        phoneDirectory.addEntry("987654321", "Иванов");
-        phoneDirectory.addEntry("555444333", "Петров");
+        // Добавление записей в справочник
+        phoneDirectory.add("Иванов", "1111111");
+        phoneDirectory.add("Петров", "2222222");
+        phoneDirectory.add("Иванов", "3333333");
+        phoneDirectory.add("Иванов", "4444444");
+        phoneDirectory.add("Сидоров", "5555555");
+        phoneDirectory.add("Кошкин", "6666666");
 
-        // Выводим содержимое справочника
-        phoneDirectory.printDirectory();
+        // Добавим уже имеющийся номер телефона
+        phoneDirectory.add("Мошкин", "1111111");
 
-        // Пример поиска номеров телефонов по фамилии
-        String surname = "Иванов";
-        List<String> phones = phoneDirectory.findPhonesBySurname(surname);
-        if (phones != null) {
-            System.out.println("Номера телефонов для фамилии " + surname + ": " + phones);
-        } else {
-            System.out.println("Фамилия " + surname + " не найдена в справочнике");
-        }
+
+        // Вывод всех записей в справочнике
+        phoneDirectory.printAllEntries();
+
     }
 }
