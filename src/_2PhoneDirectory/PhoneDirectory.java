@@ -24,20 +24,11 @@ public class PhoneDirectory {
         directory.put(lastName, phoneNumbers);
     }
 
-    public void set(String lastName, Set<String> phoneNumbers) {
-        directory.put(lastName, phoneNumbers);
-    }
-
-    public void remove(String lastName) {
-        directory.remove(lastName);
-    }
-
     public void printAllEntries() {
         for (Map.Entry<String, Set<String>> entry : directory.entrySet()) {
             String lastName = entry.getKey();
             Set<String> phoneNumbers = entry.getValue();
             System.out.println("Фамилия: " + lastName);
-            Object n;
             System.out.println("Номер телефона:");
             for (String phoneNumber : phoneNumbers) {
                 System.out.print(phoneNumber + "  ");
