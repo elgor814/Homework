@@ -1,7 +1,9 @@
 
 
 import org.junit.jupiter.api.Test;
+
 import java.math.BigInteger;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestFactorial {
@@ -19,7 +21,7 @@ public class TestFactorial {
 
     @Test
     public void testFactorialOfPositiveNumber() {
-        int a = 5;
+        int a = 120;
         BigInteger expected = BigInteger.valueOf(120);
         BigInteger result = calculateFactorial(a);
         assertEquals(expected, result);
@@ -45,7 +47,7 @@ public class TestFactorial {
 
     @Test
     public void testFactorialOfNegativeNumber() {
-        int a = -5;
+        int a = -10;
         Throwable exception = assertThrows(IllegalArgumentException.class, () -> calculateFactorial(a));
         assertEquals("Факториал отрицательного числа не определен", exception.getMessage());
     }
@@ -57,7 +59,5 @@ public class TestFactorial {
         BigInteger result = calculateFactorial(a);
         assertEquals(expected, result);
     }
-
-
 
 }
