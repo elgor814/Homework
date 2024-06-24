@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9173ee-54d0-4329-81ad-865fb915fb43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testng/annotations/Order.java" afterDir="false" />
+    <list default="true" id="3f9173ee-54d0-4329-81ad-865fb915fb43" name="Changes" comment="Lesson14_Factorial_TestNG">
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFactorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +43,11 @@
     "onboarding.tips.debug.path": "C:/Users/Lena/IdeaProjects/Lesson_14_Factorial_TestNG/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.testng.annotations" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.TestFactorial">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
@@ -100,6 +97,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719257554512</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson14_Factorial_TestNG">
+      <option name="closed" value="true" />
+      <created>1719259956712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719259956712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson14_Factorial_TestNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson14_Factorial_TestNG" />
   </component>
 </project>

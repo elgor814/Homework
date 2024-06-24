@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 
 import java.math.BigInteger;
 
-
 public class TestFactorial {
     @Test(priority = 2)
     public void testFactorialForZero() {
@@ -15,7 +14,6 @@ public class TestFactorial {
 
         Assert.assertEquals(factorial, expectedFactorial);
     }
-
 
     @Test(priority = 1)
     public void testFactorialForPositiveNumber() {
