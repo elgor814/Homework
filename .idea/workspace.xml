@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f9173ee-54d0-4329-81ad-865fb915fb43" name="Changes" comment="Lesson14_Factorial_TestNG">
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719259956712</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson14_Factorial_TestNG">
+      <option name="closed" value="true" />
+      <created>1719260020307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719260020307</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson14_Factorial_TestNG">
+      <option name="closed" value="true" />
+      <created>1719260092988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719260092988</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson14_Factorial_TestNG">
+      <option name="closed" value="true" />
+      <created>1719260331715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719260331715</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
